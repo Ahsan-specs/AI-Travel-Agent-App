@@ -14,9 +14,11 @@ The **AI Travel Agent App** helps users plan their trips effortlessly. It levera
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/AI_Travel_Agent_App.git
+   git clone https://github.com/Ahsan-specs/AI-Travel-Agent-App.git
    cd AI_Travel_Agent_App
    ```
+
+
 
 2. Install dependencies:
 
